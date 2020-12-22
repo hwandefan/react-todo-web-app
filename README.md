@@ -1,6 +1,8 @@
 # react-todo-web-app
 TodoList on ReactJS for NodeJS API Server. <br />
 <br />
+You can find NodeJS API Server - <a href="https://github.com/hwandefan/NodeJS-todo-server">HERE</a> <br />
+<br />
 Pages:<br />
 <ul>
   <li>Sign In Page</li>
@@ -10,5 +12,3 @@ Pages:<br />
   <li>Add Category Page</li>
   <li>Add Todo Page</li>
 </ul>  
-<br />
-You can find NodeJS API Server - <a href="https://github.com/hwandefan/NodeJS-todo-server">HERE</a> <br />
